@@ -1,0 +1,66 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+.main{
+    background-image: url(/img/хлеб.jpg);
+    height: 800px;
+    color: antiquewhite;
+    background-size: 100%;
+    margin-bottom: 300px;
+}
+h1{
+    margin-top: 300px;
+}
+h2{
+    margin-left: 500px;
+}
+.photo1{
+    background-image: url(/img/imgg.jpg);
+    height: 250px;
+width: 250px;
+background-size: 100%;
+color: aliceblue;
+
+}
+.photo2{
+    background-image: url(/img/123.jpg);
+    height: 250px;
+    width: 250px;
+    background-size: 100%;
+    color: aliceblue;
+   
+    margin-right: 150px;
+}
+.photo3{
+    background-image: url(/img/печенье.jpg);
+    height: 250px;
+    width: 250px;
+    background-size: 100%;
+    color: aliceblue;
+}
+.photo4{
+    background-image: url(/img/круассан-scaled.jpeg);
+    height: 250px;
+    width: 250px;
+    background-size: 100%;
+    color: aliceblue;
+}
+.photo{
+display: flex;
+justify-content: space-around;
+
+}
+.photo5{
+    background-image: url(img/печенье.jpg);
+    height: 250px;
+    width: 250px;
+    background-size: 100%;
+    color: aliceblue;
+    
+}
+.photo0{
+    
+}
+
